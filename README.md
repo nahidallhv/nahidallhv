@@ -1,4 +1,1 @@
-In 2022, having scored 483 points, I was admitted to the computer engineering specialty of 
-the Faculty of Architecture and Engineering of Nakhchivan State University.
-I am currently in the 2nd year and I am continuing my education. 
-My overall university average is 84 and my grades are A's and B's
+Hi, I am studying the field of frontend (React.js) developer.From a young age, I have been captivated by the power of technology and its ability to shape the world around us. This fascination led me to pursue a degree in Computer Science, where I gained a comprehensive understanding of web development principles and best practices. Throughout my academic journey, I have honed my skills in HTML, CSS, and JavaScript, and have successfully completed several projects that demonstrate my ability to create visually appealing and user-friendly websites
